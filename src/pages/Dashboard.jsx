@@ -52,7 +52,7 @@ export default function Dashboard() {
           </h2>
         </div>
         <div className="bg-[#FFFFFF] rounded-lg">
-          <div className="w-full grid grid-cols-4 gap-4 py-5 px-3 rounded-xl mt-4">
+          <div className="w-full grid md:grid-cols-4 gap-4 py-5 px-3 rounded-xl mt-4">
             <CardDataAnalytics
               name={"Belum diproses"}
               num={"9,123"}
